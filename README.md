@@ -20,6 +20,20 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 👉 [Voir le périmètre fonctionnel détaillé](docs/perimetre-fonctionnel.md)
 
+## 🗺️ Étapes du projet
+
+Le projet a été structuré en plusieurs phases clés, depuis l'initialisation jusqu'à la mise en production :
+
+- **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
+- **J2 – Analyse fonctionnelle** : ateliers métiers, formalisation des besoins
+- **J3 – Analyse technique** : interfaçage SI, spécifications des développements
+- **J4 – Développements & environnement de test** : mise en place du socle technique
+- **J5 – Tests & Formations** : formation des utilisateurs clés, recette fonctionnelle
+- **J6 – Préparation de la production** : reprise des données, configuration finale
+- **J7 – Mise en production & VSR** : passage en production, accompagnement post-déploiement
+
+👉 [Voir les étapes détaillées du projet](docs/etapes-projet.md)
+
 ## ⚙️ Intégration SI
 
 - Interfaces vers RH, CRM, comptabilité
@@ -31,6 +45,8 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 - Sessions de formation ciblées
 - Supports utilisateurs
 - Suivi de l’adoption post-déploiement
+
+
 
 ## 📎 Ressources
 
