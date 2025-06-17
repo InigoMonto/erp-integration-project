@@ -14,4 +14,4 @@ Ce document détaille l’ensemble des domaines couverts par le projet, ainsi qu
 
 Voici une vue d’ensemble de l’intégration de l’ERP dans le système d’information :
 
-![Schéma d’architecture du SI](docs/images/périmètre-fonctionnel.png)
+![Schéma d’architecture du SI](docs/images/perimetre-fonctionnel.png)
