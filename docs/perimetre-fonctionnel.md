@@ -16,3 +16,6 @@ Le périmètre est structuré en deux lots :
 - **Lot 2 (optionnel)** : Déploiement progressif de modules complémentaires, selon les besoins.
 
 
+---
+
+🔙 [Retour au README principal](../README.md)
