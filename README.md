@@ -18,7 +18,7 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 - Facturation automatisée
 - Intégration au référentiel RH et comptable
 
-> Voir le fichier Périmètre Fonctionnel `docs/perimetre-fonctionnel.md` pour plus de détails
+👉 [Voir le périmètre fonctionnel détaillé](docs/perimetre-fonctionnel.md)
 
 ## ⚙️ Intégration SI
 
