@@ -1,3 +1,10 @@
+## 🖼️ Schéma d’architecture
+
+Voici une vue d’ensemble de l’intégration de l’ERP dans le système d’information :
+
+![Schéma d’architecture du SI](images/perimetre-fonctionnel.png)
+
+
 # 🎯 Présentation du périmètre fonctionnel
 
 Le projet ERP vise à mettre en place un **nouveau socle de gestion intégré**, couvrant l’ensemble des processus métier clés de l’organisation, de la relation client jusqu’à la facturation, en passant par la gestion des projets et des achats.  
@@ -8,10 +15,4 @@ Le périmètre est structuré en deux lots :
 - **Lot 1 (MVP)** : Mise en œuvre des fonctions de base de l’ERP, de la gestion des référentiels à la comptabilité.
 - **Lot 2 (optionnel)** : Déploiement progressif de modules complémentaires, selon les besoins.
 
-Ce document détaille l’ensemble des domaines couverts par le projet, ainsi que les interfaces prévues avec les systèmes existants.
 
-## 🖼️ Schéma d’architecture
-
-Voici une vue d’ensemble de l’intégration de l’ERP dans le système d’information :
-
-![Schéma d’architecture du SI](images/perimetre-fonctionnel.png)
