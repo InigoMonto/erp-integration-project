@@ -18,6 +18,8 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 - Facturation automatisée
 - Intégration au référentiel RH et comptable
 
+> Voir le fichier Périmètre Fonctionnel `docs/perimetre-fonctionnel.md` pour plus de détails
+
 ## ⚙️ Intégration SI
 
 - Interfaces vers RH, CRM, comptabilité
