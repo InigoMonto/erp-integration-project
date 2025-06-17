@@ -1,5 +1,3 @@
-
-
 # 🎯 Présentation du périmètre fonctionnel
 
 Le projet ERP vise à mettre en place un **nouveau socle de gestion intégré**, couvrant l’ensemble des processus métier clés de l’organisation, de la relation client jusqu’à la facturation, en passant par la gestion des projets et des achats.  
@@ -16,4 +14,4 @@ Ce document détaille l’ensemble des domaines couverts par le projet, ainsi qu
 
 Voici une vue d’ensemble de l’intégration de l’ERP dans le système d’information :
 
-![Schéma d’architecture du SI](images/périmètre fonctionnel.png)
+![Schéma d’architecture du SI](images/périmètre-fonctionnel.png)
