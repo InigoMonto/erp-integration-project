@@ -23,7 +23,7 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 ## 🗺️ Étapes du projet
 
-Le projet a été structuré en plusieurs phases clés, depuis l'initialisation jusqu'à la mise en production :
+Le projet a été structuré en plusieurs phases clés, depuis la phase de recherche de solution jusqu'à la mise en production :
 
 - **J0 – Phase d’avant-projet** : audit interne, définition du MVP, démonstration de solutions spécialistes et généralistes sur la base de scénarios d’entreprise, élaboration de l’appel d’offres (CCAP, CCTP), dépouillement et choix de la solution par le CODIR 
 - **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
@@ -38,9 +38,11 @@ Le projet a été structuré en plusieurs phases clés, depuis l'initialisation 
 
 ## ⚙️ Intégration SI
 
-- Interfaces vers RH, CRM, comptabilité
-- Mécanismes de synchronisation et de supervision
-- Schémas de flux disponibles dans `docs/`
+- Développement d'interfaces avec ls solution RH, de gestion des absences, des notes de frais, de gestion des formations et de comptabilité 
+- Mécanismes de synchronisation et de supervision des flux via orchestrateur
+
+👉 [Voir les étapes détaillées du projet](docs/flux-si.md)
+
 
 ## 🤝 Conduite du changement
 
