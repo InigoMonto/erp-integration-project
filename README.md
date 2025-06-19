@@ -13,17 +13,16 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 ## 🧱 Périmètre couvert
 
-- Gestion commerciale (devis, commandes, marketing)
-- Suivi de projet et gestion des temps
-- Pilotage des services (plannings, interventions, bons de livraison)
-- Facturation automatisée
-- Intégration au référentiel RH et comptable
+![Schéma d’architecture du SI](images/perimetre-fonctionnel.png)
 
-👉 [Voir le périmètre fonctionnel détaillé](docs/perimetre-fonctionnel.md)
+
+👉 [Voir le détail du périmètre fonctionnel](docs/perimetre-fonctionnel.md)
 
 ## 🗺️ Étapes du projet
 
 Le projet a été structuré en plusieurs phases clés, depuis la phase de recherche de solution jusqu'à la mise en production :
+
+![Timeline du projet ERP](images/etapes-projet.png)
 
 - **J0 – Phase d’avant-projet** : audit interne, définition du MVP, démonstration de solutions spécialistes et généralistes sur la base de scénarios d’entreprise, élaboration de l’appel d’offres (CCAP, CCTP), dépouillement et choix de la solution par le CODIR 
 - **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
@@ -34,14 +33,14 @@ Le projet a été structuré en plusieurs phases clés, depuis la phase de reche
 - **J6 – Préparation de la production** : reprise des données, configuration finale
 - **J7 – Mise en production & VSR** : passage en production, accompagnement post-déploiement
 
-👉 [Voir les étapes détaillées du projet](docs/etapes-projet.md)
+👉 [Voir le détail des étapes du projet](docs/etapes-projet.md)
 
 ## ⚙️ Intégration SI
 
-- Développement d'interfaces avec ls solution RH, de gestion des absences, des notes de frais, de gestion des formations et de comptabilité 
-- Mécanismes de synchronisation et de supervision des flux via orchestrateur
+![Illustration des flux SI](images/schema-des-flux.jpg)
 
-👉 [Voir les flux inter applicatifs](docs/flux-si.md)
+
+👉 [Voir le detail des flux inter applicatifs](docs/flux-si.md)
 
 
 ## 🤝 Conduite du changement
@@ -55,7 +54,3 @@ La conduite du changement a été un levier essentiel de réussite pour garantir
 - Mise à disposition de supports utilisateurs pédagogiques
 - Suivi de l’adoption post-déploiement avec points réguliers et ajustements continus
 
-
-## 📎 Ressources
-
-> Voir le dossier `docs/` pour plus de détails techniques et organisationnels
