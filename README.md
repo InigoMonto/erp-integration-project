@@ -1,20 +1,21 @@
 # 🏢 Intégration d’un ERP dans une organisation multi-métier (300+ collaborateurs)
 
-Ce dépôt documente la mise en place d’un ERP dans une organisation de plus de 300 personnes, couvrant un périmètre allant du commerce à la facturation, en passant par les services et la saisie des temps.  
+Ce dépôt documente la mise en place d’un ERP dans une organisation de plus de 300 personnes, couvrant un périmètre allant du commerce à la facturation, en passant par la gestion des achats, prestations, formation et le suivi de l’activité des collaborateurs.
+
 Le projet a impliqué une refonte profonde des processus, une intégration technique complète au SI existant, et un accompagnement fort des utilisateurs.
 
 ## 🎯 Objectifs du projet
 
-- Refondre les processus métiers autour d’un ERP centralisé
+- Refondre les processus métiers autour d’un ERP centralisé, en remplacement d’une multitude d’applications métiers en silo, peu communicantes
 - Intégrer l’ERP comme nouveau socle du système d'information
 - Développer des interfaces internes robustes et sécurisées
 - Accompagner les utilisateurs dans l’appropriation de l’outil
 
 ## 🧱 Périmètre couvert
 
-- Gestion commerciale (devis, commandes)
+- Gestion commerciale (devis, commandes, marketing)
 - Suivi de projet et gestion des temps
-- Pilotage des services (plannings, interventions)
+- Pilotage des services (plannings, interventions, bons de livraison)
 - Facturation automatisée
 - Intégration au référentiel RH et comptable
 
@@ -24,6 +25,7 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 Le projet a été structuré en plusieurs phases clés, depuis l'initialisation jusqu'à la mise en production :
 
+- **J0 – Phase d’avant-projet** : audit interne, définition du MVP, démonstration de solutions spécialistes et généralistes sur la base de scénarios d’entreprise, élaboration de l’appel d’offres (CCAP, CCTP), dépouillement et choix de la solution par le CODIR 
 - **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
 - **J2 – Analyse fonctionnelle** : ateliers métiers, formalisation des besoins
 - **J3 – Analyse technique** : interfaçage SI, spécifications des développements
