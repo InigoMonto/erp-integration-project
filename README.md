@@ -41,7 +41,7 @@ Le projet a été structuré en plusieurs phases clés, depuis la phase de reche
 - Développement d'interfaces avec ls solution RH, de gestion des absences, des notes de frais, de gestion des formations et de comptabilité 
 - Mécanismes de synchronisation et de supervision des flux via orchestrateur
 
-👉 [Voir les étapes détaillées du projet](docs/flux-si.md)
+👉 [Voir les flux inter applicatifs](docs/flux-si.md)
 
 
 ## 🤝 Conduite du changement
