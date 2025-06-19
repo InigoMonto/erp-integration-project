@@ -11,7 +11,7 @@ Voici les principaux flux de données identifiés entre l’ERP et les systèmes
 ![Illustration des flux SI](images/schema-des-flux.jpg)
 
 - **Gestion des absences** ⟶ ERP  
-  Synchronisation des absences saisies dans le logiciel de gestion des absences pour prise en compte dans les temps projets et la facturation.
+  Synchronisation des absences saisies dans le logiciel de gestion des absences pour prise en compte dans les temps projets et aider à la saisie d'activité.
 
 - **Gestion des collaborateurs** ⟶ ERP  
   Échange unidirectionnel pour mettre à jour les données RH de l'ERP, le référentiel étant le logiciel RH
