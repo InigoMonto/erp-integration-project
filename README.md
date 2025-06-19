@@ -46,10 +46,14 @@ Le projet a été structuré en plusieurs phases clés, depuis la phase de reche
 
 ## 🤝 Conduite du changement
 
-- Sessions de formation ciblées
-- Supports utilisateurs
-- Suivi de l’adoption post-déploiement
+La conduite du changement a été un levier essentiel de réussite pour garantir l’adhésion des équipes au nouvel ERP. Elle s’est articulée autour de plusieurs axes complémentaires :
 
+- Sessions de formation ciblées, adaptées aux profils métiers
+- Création d’ateliers dédiés aux différents acteurs pour définir leurs contributions dans le nouveau système
+- Assistance personnalisée à la reprise des données depuis les anciens outils
+- Formation interne des key users pour en faire des relais opérationnels
+- Mise à disposition de supports utilisateurs pédagogiques
+- Suivi de l’adoption post-déploiement avec points réguliers et ajustements continus
 
 
 ## 📎 Ressources
