@@ -11,12 +11,16 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 - Développer des interfaces internes robustes et sécurisées
 - Accompagner les utilisateurs dans l’appropriation de l’outil
 
+
 ## 🧱 Périmètre couvert
+
+Le périmètre du projet couvre l’ensemble des fonctions clés de gestion de l’organisation, depuis les processus commerciaux jusqu’au pilotage administratif et opérationnel, dans une logique d’intégration et de simplification du système d’information :
 
 ![Schéma d’architecture du SI](docs/images/perimetre-fonctionnel.png)
 
 
 👉 [Voir le détail du périmètre fonctionnel](docs/perimetre-fonctionnel.md)
+
 
 ## 🗺️ Étapes du projet
 
@@ -24,18 +28,12 @@ Le projet a été structuré en plusieurs phases clés, depuis la phase de reche
 
 ![Timeline du projet ERP](docs/images/etapes-projet.png)
 
-- **J0 – Phase d’avant-projet** : audit interne, définition du MVP, démonstration de solutions spécialistes et généralistes sur la base de scénarios d’entreprise, élaboration de l’appel d’offres (CCAP, CCTP), dépouillement et choix de la solution par le CODIR 
-- **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
-- **J2 – Analyse fonctionnelle** : ateliers métiers, formalisation des besoins
-- **J3 – Analyse technique** : interfaçage SI, spécifications des développements
-- **J4 – Développements & environnement de test** : mise en place du socle technique
-- **J5 – Tests & Formations** : formation des utilisateurs clés, recette fonctionnelle
-- **J6 – Préparation de la production** : reprise des données, configuration finale
-- **J7 – Mise en production & VSR** : passage en production, accompagnement post-déploiement
 
 👉 [Voir le détail des étapes du projet](docs/etapes-projet.md)
 
 ## ⚙️ Intégration SI
+
+L’intégration du nouvel ERP avec l’existant repose sur une architecture d’échanges inter-applicatifs conçue pour garantir la cohérence des données, la fluidité des processus et la pérennité du système d’information.
 
 ![Illustration des flux SI](docs/images/schema-des-flux.jpg)
 
