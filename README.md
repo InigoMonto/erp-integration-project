@@ -13,7 +13,7 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 ## 🧱 Périmètre couvert
 
-![Schéma d’architecture du SI](images/perimetre-fonctionnel.png)
+![Schéma d’architecture du SI](docs/images/perimetre-fonctionnel.png)
 
 
 👉 [Voir le détail du périmètre fonctionnel](docs/perimetre-fonctionnel.md)
@@ -22,7 +22,7 @@ Le projet a impliqué une refonte profonde des processus, une intégration techn
 
 Le projet a été structuré en plusieurs phases clés, depuis la phase de recherche de solution jusqu'à la mise en production :
 
-![Timeline du projet ERP](images/etapes-projet.png)
+![Timeline du projet ERP](docs/images/etapes-projet.png)
 
 - **J0 – Phase d’avant-projet** : audit interne, définition du MVP, démonstration de solutions spécialistes et généralistes sur la base de scénarios d’entreprise, élaboration de l’appel d’offres (CCAP, CCTP), dépouillement et choix de la solution par le CODIR 
 - **J1 – Initialisation du projet** : cadrage, gestion des risques, gouvernance
@@ -37,7 +37,7 @@ Le projet a été structuré en plusieurs phases clés, depuis la phase de reche
 
 ## ⚙️ Intégration SI
 
-![Illustration des flux SI](images/schema-des-flux.jpg)
+![Illustration des flux SI](docs/images/schema-des-flux.jpg)
 
 
 👉 [Voir le detail des flux inter applicatifs](docs/flux-si.md)
