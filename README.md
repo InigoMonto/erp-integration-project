@@ -1,4 +1,4 @@
-# 🏢 Intégration d’un ERP dans une organisation multi-métier (300+ collaborateurs)
+# 🏢 Intégration d’un ERP dans une organisation multi-métier
 
 Ce dépôt documente la mise en place d’un ERP dans une organisation de plus de 300 personnes, couvrant un périmètre allant du commerce à la facturation, en passant par la gestion des achats, prestations, formation et le suivi de l’activité des collaborateurs.
 
