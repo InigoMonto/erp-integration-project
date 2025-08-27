@@ -14,7 +14,7 @@ Le projet de mise en œuvre de l'ERP s'est structuré autour de plusieurs phases
   Cadrage global du projet, définition de la gouvernance (**COPIL/CODIR**), mise en place de la gestion des risques, des jalons clés et des indicateurs de suivi.  
 
 - **J2 – Analyse fonctionnelle**  
-  Animation d’**ateliers métiers** pour formaliser les besoins (commerce, RH, facturation, planification). Consolidation et validation des exigences par les **key users**.  
+  Animation d’**ateliers métiers** pour formaliser les besoins (commerce, métiers, RH, facturation). Consolidation et validation des exigences par les **key users**.  
 
 - **J3 – Analyse technique**  
   Étude d’architecture du SI, conception des interfaces et interconnexions, spécifications des développements spécifiques. Coordination entre équipes IT et métiers pour assurer l’alignement fonctionnel et technique.  
