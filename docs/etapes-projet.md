@@ -35,7 +35,7 @@ Le projet de mise en œuvre de l'ERP s'est structuré autour de plusieurs phases
 
 ## Résultats clés
 
-- Adoption rapide par les métiers grâce à une implication des les prémices du prjet.   
+- Adoption rapide par les métiers grâce à une implication des les prémices du projet.   
 - **+30 % de productivité** sur le traitement des commandes.  
 - Meilleure **traçabilité et sécurité** du SI.  
 - Réduction des erreurs opérationnelles et fiabilisation des flux.  
